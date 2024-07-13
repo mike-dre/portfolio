@@ -1,4 +1,4 @@
-import Chessboard from "../ui/chess/chessboard";
+import Chessboard from "../components/chess/chessboard";
 
 export default function Home() {
     return (
