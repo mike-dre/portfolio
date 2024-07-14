@@ -17,9 +17,7 @@ export function Caroussel() {
                 <div className={styles.item} id={styles.item10}><img className={styles.img} src="./images/dragon_10.jpg"></img></div>
             </div>
             <div className={styles.content}>
-
-            
-            <div className={styles.model}></div>
+                <div className={styles.model}></div>
             </div>
         </div>
     )
