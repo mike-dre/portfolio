@@ -4,6 +4,7 @@ import React from "react";
 
 const Chessboard: React.FC = () => {
     const squares: React.ReactNode[] = [];
+    const test:string = "hi"
 
     const handleClick = (index: number) => {
         console.log("Square clicked:", index);
